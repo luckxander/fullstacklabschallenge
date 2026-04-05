@@ -8,7 +8,7 @@
 
 4) Install Cypress inside the project folder.
 
-5) Add this folder (Cypress) in the project root folder.
+5) Add this cloned folder (Cypress) in the project root folder.
 
 6) Use the cypress.config.js from this folder in the project root folder, if needs you should subscribe an existing with this one.
 
