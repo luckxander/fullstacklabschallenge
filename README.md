@@ -16,4 +16,3 @@
 
 8) Open terminal on VS Code and type => npx cypress open
 
-9) Any additional information please contact me lusenabh@gmail.com or +55 35 9 9990 5411 (whatsapp)
